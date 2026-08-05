@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+data/
+venv/
+.env
+*.pt
+!results/best_attention_cnn.pt
